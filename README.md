@@ -21,4 +21,5 @@ footer : Fastcampus 웹 프로그래밍 & 프론트엔드 개발 스쿨, 2017
 - 2017.08.01 javascript object, control-flow, operator  
 - 2017.08.03 javascript prototype, scope, this, sass  
 - 2017.08.04 Software Engineering, Process, Life CycleAgile, Process Model  
+- 2017.08.07 Sass, JavaScript Execution Context, Closure  
 - 
