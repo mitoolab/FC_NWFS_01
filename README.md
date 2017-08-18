@@ -27,3 +27,4 @@ footer : Fastcampus 웹 프로그래밍 & 프론트엔드 개발 스쿨, 2017
 - 2017.08.11 Intro to Network Computing  
 - 2017.08.14 Javascript DOM, Ajax, Event  
 - 2017.08.16 Javascript Event, jQuery  
+- 2017.08.18 Computer network  
