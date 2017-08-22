@@ -29,3 +29,4 @@ footer : Fastcampus 웹 프로그래밍 & 프론트엔드 개발 스쿨, 2017
 - 2017.08.16 Javascript Event, jQuery  
 - 2017.08.18 Computer network  
 - 2017.08.21 ECMAScript6 - let, const, Template Literals, Arrow function, Extended Parameter Handling, Enhanced Object property, Destructuring, Class
+- 2017.08.21 ECMAScript6 - Class, Module(Babel, Webpack Setting), Promise, Iteration protocol & for-of
