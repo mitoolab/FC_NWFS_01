@@ -34,3 +34,4 @@ footer : Fastcampus 웹 프로그래밍 & 프론트엔드 개발 스쿨, 2017
 - 2017.08.29 Nodejs - HTTP, Express, Template Language  
 - 2017.08.30 Nodejs - urlShortner(Activity)
 - 2017.09.04 Nodejs - Express Middleware, Cookie, Session
+- 2017.09.05 Nodejs - Ajax, Axios, CORS, JWT, Fetch API
