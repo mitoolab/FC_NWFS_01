@@ -38,3 +38,4 @@ footer : Fastcampus 웹 프로그래밍 & 프론트엔드 개발 스쿨, 2017
 - 2017.09.06 Nodejs - Cache, GraphQL, SPA  
 - 2017.09.08 Computer - Data Structures, Linked List, Tree, gulp  
 - 2017.09.11 FDS - Ajex, Front-end Set-up, express, AJAX CRUD  
+- 2017.09.11 WPSN - MySQL(RDB, DDL, Select, Group, Function)
