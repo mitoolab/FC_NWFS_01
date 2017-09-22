@@ -46,3 +46,4 @@ footer : Fastcampus 웹 프로그래밍 & 프론트엔드 개발 스쿨, 2017
 - 2017.09.17 특강 - MongoDB 
 - 2017.09.18 FDS - React - render, JSX, props, state, react setting tutorial
 - 2017.09.19 FDS - React - props, state, Counter&Clock, route
+- 2017.09.20 FDS - React - list view, sort, filter, make fake data
