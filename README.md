@@ -48,3 +48,4 @@ footer : Fastcampus 웹 프로그래밍 & 프론트엔드 개발 스쿨, 2017
 - 2017.09.19 FDS - React - props, state, Counter&Clock, route
 - 2017.09.19 WPSN - node - knex kue
 - 2017.09.20 FDS - React - list view, sort, filter, make fake data  
+- 2017.09.22 FDS - React - redux (reducer, action, store, Provider, connect)
