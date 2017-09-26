@@ -50,4 +50,5 @@ footer : Fastcampus 웹 프로그래밍 & 프론트엔드 개발 스쿨, 2017
 - 2017.09.20 FDS - React - list view, sort, filter, make fake data  
 - 2017.09.22 FDS - React - redux (reducer, action, store, Provider, connect) 
 - 2017.09.26 FDS - React - Firebase     
+- 2017.09.26 WPSN - Linux - EC2, SSH, commands, Cyberduck, RDS, Route 53
 
