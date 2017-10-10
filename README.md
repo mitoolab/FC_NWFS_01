@@ -49,7 +49,9 @@ footer : Fastcampus 웹 프로그래밍 & 프론트엔드 개발 스쿨, 2017
 - 2017.09.19 WPSN - node - knex kue
 - 2017.09.20 FDS - React - list view, sort, filter, make fake data  
 - 2017.09.22 FDS - React - redux (reducer, action, store, Provider, connect) 
+- 2017.09.25 WPSN - REST API, SPA  
 - 2017.09.26 FDS - React - Firebase     
 - 2017.09.26 WPSN - Linux - EC2, SSH, commands, Cyberduck, RDS, Route 53
 - 2017.09.27 FDS - React - File upload, SNS Login, Firebase, Vote Service 
+- 2017.09.27 WPSN - Testability(assert, Mocha test framework, SuperTest, Sinon, Travis CI)  
 
